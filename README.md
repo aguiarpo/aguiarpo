@@ -28,8 +28,9 @@
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
 <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'/>
 
-<h2>Ferramentas:</h2>
-<img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white'/>
+<h2>Ferramentas</h2>
+
+<img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitehttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
 <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white'/>
-<img src='https://aleen42.github.io/badges/src/photoshop.svg'/>
-<img src='https://aleen42.github.io/badges/src/illustrator.svg'/>
+
+<img src='https://aleen42.github.io/badges/src/photoshop.svg'/> <img src='https://aleen42.github.io/badges/src/illustrator.svg'/>
