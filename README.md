@@ -2,9 +2,9 @@
 
 👋 Olá, meu nome é Eduardo Aguiar Poerner.
 
-👀 Sou programador Full Stack, mas possuo preferência pelo Front-End.
+👀 Sou programador Full Stack, mas tenho preferência pelo Front-End.
 
-🌱 Gosto de Matemática, e estou querendo me especializar em Inteligência Artificial, por ser mais voltado para matemática, mas todo conhecimento é bem vindo.
+🌱 Gosto de Matemática, e estou querendo me especializar em Inteligência Artificial, por ser mais voltado para matemática, mas todo conhecimento é bem-vindo.
 
 💞️ Gosto de Design como hobby, o que me ajuda muito com a parte Front-End.
 
