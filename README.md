@@ -33,7 +33,7 @@
 
 <img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitehttps://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
 <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white'/>
-<img src='https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=whitehttps://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white'/>
+<img src='https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white'/>
 
 <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'/> <img src='https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'/>
 <img src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white'/>
